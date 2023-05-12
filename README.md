@@ -5,9 +5,6 @@
 
 A Weather Forecast project built with React, Chakra UI and [WeatherApi](https://www.weatherapi.com). Get the weather forecast with smart layout. View wind, precipitation, humidity and temperature up to 3 days forecast. Search through cities or states worldwide accurate realtime.
 
-### Live Demo
-
-https://react-weather-fc.web.app/
 
 ### Screenshots
 
